@@ -38,22 +38,6 @@
 
 /***********************************************/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .menu-btn {
     position: absolute;
     z-index: 3;
@@ -142,7 +126,8 @@
 .menu-branding .portrait {
     width: 250px;
     height: 250px;
-    background: url("../img/projects/camilo.jpg");
+    /*background: url("../img/projects/camilo.jpg");*/
+    background-image: url("../img/projects/camilo.jpg");
     border-radius: 50%;
     border: solid 3px gray;
 }
@@ -473,7 +458,6 @@ main#home h1 {
     }
 }
 
-
-.imagenes{
+.imagenes {
     height: 302px;
 }
