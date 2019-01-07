@@ -142,7 +142,7 @@
 .menu-branding .portrait {
     width: 250px;
     height: 250px;
-    background: url("../img/portrait.jpg");
+    background: url("../img/projects/camilo.jpg");
     border-radius: 50%;
     border: solid 3px gray;
 }
@@ -439,7 +439,7 @@ main#home h1 {
     }
 
     .menu-branding .portrait {
-        background: url("../img/portrait_small.jpg");
+        background: url("../img/projects/camilo.jpg");
         width: 150px;
         height: 150px;
     }
@@ -471,4 +471,9 @@ main#home h1 {
     .projects {
         grid-template-columns: 1fr;
     }
+}
+
+
+.imagenes{
+    height: 302px;
 }
